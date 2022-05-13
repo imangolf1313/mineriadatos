@@ -7,7 +7,7 @@ df = pd.read_csv('mineriadatos/users_data2.csv')
 # Imprimir 5 registros
 #print(df.head())
 
-# Dimencion del dataset/ dataframe
+# Dimension del dataset/ dataframe
 #print(df.shape)
 
 # Nombre de tipo o dictado de columna
