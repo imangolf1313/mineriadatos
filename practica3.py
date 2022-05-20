@@ -49,4 +49,4 @@ df['department'] = df['department'].fillna('indefinido')
 df['gender'] = df['gender'].fillna('D')
 
 
-df.to_csv('mineriadatos/usuarios_completo.csv', index=False)
+#df.to_csv('mineriadatos/usuarios_completo.csv', index=False)
