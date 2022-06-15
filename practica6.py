@@ -20,4 +20,5 @@ plt.title("Grafica active - department",
 
 plt.xlabel("Active", size = 16)
 plt.ylabel("Department", size = 16)
+add_value_label(
 plt.show()
